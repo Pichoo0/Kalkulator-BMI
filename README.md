@@ -1,1 +1,1 @@
-# Projekt-na-zaliczenie
+# Kalkulator BMI w Java
