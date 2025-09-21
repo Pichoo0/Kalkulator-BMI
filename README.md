@@ -4,7 +4,7 @@ Dokumentacja Projektu - Kalkulator BMI
 
 Cel Aplikacji 
 
-Aplikacja internetowa "Kalkulator BMI" została stworzona w celu umożliwienia użytkownikom szybkiego obliczania wskaźnika masy ciała (Body Mass Index). Program implementuje funkcjonalny formularz przetwarzający wprowadzone dane oraz dostarcza szczegółowej analizy wyników. 
+Aplikacja internetowa "Kalkulator BMI" została stworzona w celu umożliwienia użytkownikom szybkiego obliczania wskaźnika masy ciała (Body Mass Index). Program implementuje funkcjonalny formularz przetwarzający wprowadzone dane oraz dostarcza wyniki szczegółowej analizy. 
 
 Funkcjonalności 
 
